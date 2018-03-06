@@ -1,15 +1,3 @@
----
-layout: post
-title: "Springboot Admin 설정하기"
-subtitle: "Spring"
-categories: document
-tags: spring springboot admin
-published: true
-comments: true
----
-
-
-
 ## 1. 스프링부트 관리자란?
 
 Spring Boot Admin 은 애플리케이션을 HTTP 통신을 통해 관리하고 모니터링하는 서드파티 프로젝트입니다.
@@ -154,15 +142,15 @@ public class SecurityConfig {
 
 여기까지 보든 과정을 따라하셨다면 간단한 모니터링 애플리케이션이 구축되었습니다. 
 
-![20180306_01_01](wonyoungpark.github.io/images/2018/0306_01_01.png)
+![20180306_01_01](http://wonyoungpark.github.io/images/2018/0306_01_01.png)
 
-![20180306_01_02](wonyoungpark.github.io/images/2018/0306_01_02.png)
+![20180306_01_02](http://wonyoungpark.github.io/images/2018/0306_01_02.png)
 
-![20180306_01_03](wonyoungpark.github.io/images/2018/0306_01_03.png)
+![20180306_01_03](http://wonyoungpark.github.io/images/2018/0306_01_03.png)
 
-![20180306_01_04](wonyoungpark.github.io/images/2018/0306_01_04.png)
+![20180306_01_04](http://wonyoungpark.github.io/images/2018/0306_01_04.png)
 
-![20180306_01_05](wonyoungpark.github.io/images/2018/0306_01_05.png)
+![20180306_01_05](http://wonyoungpark.github.io/images/2018/0306_01_05.png)
 
 ## 4. 결론
 
