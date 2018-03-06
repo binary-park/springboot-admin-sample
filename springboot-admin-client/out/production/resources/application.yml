@@ -9,7 +9,7 @@ management:
 
 spring:
   application:
-    name: spring-boot-admin-client
+    name: springboot-admin-client
   boot:
     admin:
       client:
